@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PXWSxVVbVZSJe0+zK24M1dSMvviunNvgP9sXSr+oYqJANU7tClqzd9yRxFKhSgdhHo0CgZJt0vbWy1436Hg25A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nikola\\Desktop\\Fakultet\\TrecaGodina\\Kriptografija\\Projektni\\SafeRepo\\SafeRepo\\SafeRepo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikola\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Nikola\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
